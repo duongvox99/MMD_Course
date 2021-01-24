@@ -21,5 +21,5 @@ Mapreduce được ưa chuộng sử dụng như vậy bởi nó sở hữu nhi�
 -   MapRedue có khả năng thực hiện trên nhiều nguồn ngôn ngữ lập trình khác nhau như: Java, C, C++, Python, Perl, Ruby,… tương ứng với nó là những thư viện hỗ trợ.
 
 ## Ví dụ
-Project mẫu trên Colab dùng Spark đọc vào một file văn bản và đếm số từ trên bản, lọc ra k từ có tần suất xuất hiện nhiều nhất: https://colab.research.google.com/drive/14tbyeqyZhQb4ZpSvmjFLKHewtdohjBDN?usp=sharing
+Project mẫu trên Colab dùng Spark đọc vào một file văn bản và đếm số từ trên bản, lọc ra k từ có tần suất xuất hiện nhiều nhất: https://colab.research.google.com/drive/1toVrt9yCZa1GI5kCtXvT2ARQu3G8cnEy?usp=sharing
 
